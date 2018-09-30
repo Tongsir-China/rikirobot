@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/install
+
+Name: tf2_ros
+Description: Description of tf2_ros
+Version: 0.5.16
+Cflags: -I/home/tongsir/ROS_SLAM/install/include
+Libs: -L/home/tongsir/ROS_SLAM/install/lib -ltf2_ros
+Requires: actionlib actionlib_msgs geometry_msgs message_filters roscpp rosgraph tf2 tf2_msgs tf2_py

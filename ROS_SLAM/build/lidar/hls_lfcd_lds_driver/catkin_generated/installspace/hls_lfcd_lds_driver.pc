@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/install
+
+Name: hls_lfcd_lds_driver
+Description: Description of hls_lfcd_lds_driver
+Version: 0.1.4
+Cflags: -I/home/tongsir/ROS_SLAM/install/include
+Libs: -L/home/tongsir/ROS_SLAM/install/lib -lhls_lfcd_lds_driver
+Requires: roscpp sensor_msgs

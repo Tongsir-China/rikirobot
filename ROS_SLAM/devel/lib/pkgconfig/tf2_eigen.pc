@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/devel
+
+Name: tf2_eigen
+Description: Description of tf2_eigen
+Version: 0.5.16
+Cflags: -I/home/tongsir/ROS_SLAM/src/geometry2/tf2_eigen/include -I/usr/include/eigen3
+Libs: -L/home/tongsir/ROS_SLAM/devel/lib 
+Requires: 

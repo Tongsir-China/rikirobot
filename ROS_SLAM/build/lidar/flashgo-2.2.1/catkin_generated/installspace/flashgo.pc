@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/install
+
+Name: flashgo
+Description: Description of flashgo
+Version: 2.2.1
+Cflags: 
+Libs: -L/home/tongsir/ROS_SLAM/install/lib 
+Requires: 

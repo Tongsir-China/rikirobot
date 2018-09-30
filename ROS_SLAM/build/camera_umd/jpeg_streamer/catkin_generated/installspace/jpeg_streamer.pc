@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/install
+
+Name: jpeg_streamer
+Description: Description of jpeg_streamer
+Version: 0.2.4
+Cflags: 
+Libs: -L/home/tongsir/ROS_SLAM/install/lib 
+Requires: 

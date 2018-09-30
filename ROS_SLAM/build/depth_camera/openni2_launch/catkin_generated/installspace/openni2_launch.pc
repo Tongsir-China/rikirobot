@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/install
+
+Name: openni2_launch
+Description: Description of openni2_launch
+Version: 0.2.2
+Cflags: 
+Libs: -L/home/tongsir/ROS_SLAM/install/lib 
+Requires: 

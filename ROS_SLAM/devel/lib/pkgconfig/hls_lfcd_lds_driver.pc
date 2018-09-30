@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/devel
+
+Name: hls_lfcd_lds_driver
+Description: Description of hls_lfcd_lds_driver
+Version: 0.1.4
+Cflags: -I/home/tongsir/ROS_SLAM/src/lidar/hls_lfcd_lds_driver/include
+Libs: -L/home/tongsir/ROS_SLAM/devel/lib -lhls_lfcd_lds_driver
+Requires: roscpp sensor_msgs

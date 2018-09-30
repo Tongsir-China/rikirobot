@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/install
+
+Name: tf2_bullet
+Description: Description of tf2_bullet
+Version: 0.5.16
+Cflags: -I/home/tongsir/ROS_SLAM/install/include -I/usr/include/bullet
+Libs: -L/home/tongsir/ROS_SLAM/install/lib 
+Requires: 

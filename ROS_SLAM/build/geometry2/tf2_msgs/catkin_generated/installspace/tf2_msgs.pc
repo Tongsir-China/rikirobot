@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/install
+
+Name: tf2_msgs
+Description: Description of tf2_msgs
+Version: 0.5.16
+Cflags: -I/home/tongsir/ROS_SLAM/install/include
+Libs: -L/home/tongsir/ROS_SLAM/install/lib 
+Requires: message_generation geometry_msgs actionlib_msgs

@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/devel
+
+Name: hector_map_tools
+Description: Description of hector_map_tools
+Version: 0.3.5
+Cflags: -I/home/tongsir/ROS_SLAM/src/lidar/hector_slam/hector_map_tools/include
+Libs: -L/home/tongsir/ROS_SLAM/devel/lib 
+Requires: nav_msgs

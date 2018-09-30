@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/devel
+
+Name: wiimote
+Description: Description of wiimote
+Version: 1.11.0
+Cflags: -I/home/tongsir/ROS_SLAM/devel/include -I/home/tongsir/ROS_SLAM/src/teleop/joystick_drivers/wiimote/include
+Libs: -L/home/tongsir/ROS_SLAM/devel/lib 
+Requires: geometry_msgs sensor_msgs std_msgs std_srvs rospy roscpp roslib genmsg

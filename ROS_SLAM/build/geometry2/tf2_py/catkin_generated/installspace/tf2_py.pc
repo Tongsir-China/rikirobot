@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/install
+
+Name: tf2_py
+Description: Description of tf2_py
+Version: 0.5.16
+Cflags: 
+Libs: -L/home/tongsir/ROS_SLAM/install/lib 
+Requires: rospy tf2

@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/install
+
+Name: riki_msgs
+Description: Description of riki_msgs
+Version: 0.0.1
+Cflags: -I/home/tongsir/ROS_SLAM/install/include
+Libs: -L/home/tongsir/ROS_SLAM/install/lib 
+Requires: message_runtime std_msgs geometry_msgs

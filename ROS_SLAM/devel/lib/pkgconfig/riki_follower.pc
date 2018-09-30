@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/devel
+
+Name: riki_follower
+Description: Description of riki_follower
+Version: 2.3.7
+Cflags: -I/home/tongsir/ROS_SLAM/devel/include
+Libs: -L/home/tongsir/ROS_SLAM/devel/lib -lriki_follower
+Requires: nodelet roscpp visualization_msgs depth_image_proc dynamic_reconfigure

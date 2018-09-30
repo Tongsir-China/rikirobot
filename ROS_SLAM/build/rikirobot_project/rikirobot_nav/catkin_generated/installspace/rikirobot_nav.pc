@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/install
+
+Name: rikirobot_nav
+Description: Description of rikirobot_nav
+Version: 0.0.0
+Cflags: -I/home/tongsir/ROS_SLAM/install/include
+Libs: -L/home/tongsir/ROS_SLAM/install/lib 
+Requires: dynamic_reconfigure

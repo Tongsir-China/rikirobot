@@ -1,0 +1,8 @@
+prefix=/home/tongsir/ROS_SLAM/devel
+
+Name: riki_pid
+Description: Description of riki_pid
+Version: 0.0.1
+Cflags: -I/home/tongsir/ROS_SLAM/devel/include
+Libs: -L/home/tongsir/ROS_SLAM/devel/lib 
+Requires: dynamic_reconfigure message_runtime roscpp std_msgs
